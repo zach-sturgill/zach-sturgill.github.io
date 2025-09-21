@@ -1,0 +1,89 @@
+  /* 
+  font-family: "Signika", sans-serif;
+  font-family: "Epunda Sans", sans-serif; 
+
+  blue: 013146
+  lt blue: BCF7FF
+  dk blue: 7DE7F7
+  red: C52804
+  yellow: FCB11D
+  
+  */
+
+
+  body {
+      /* TO DO: font family + fallback, reset margin to 0*/
+      font-family: "Epunda Sans", sans-serif;
+      margin: 0;
+  }
+
+  header,
+  footer {
+      /*TO DO: background color, text color, padding, center align text */
+      background-color: teal;
+      color: white;
+      padding: 50px;
+      text-align: center;
+  }
+
+  main {
+      /*TO DO: page margin  */
+      margin: 25px;
+  }
+
+  section {
+      /*TO DO: vertical spacing between sections */
+      word-spacing: 1.5px;
+  }
+
+  a {
+      /*TO DO: link color, remove underline*/
+      color: red;
+      text-decoration: none;
+  }
+
+  a:hover {
+      /*TO DO: add font weight or other subtle change on hover state */
+      font-weight: 110;
+  }
+
+  h1,
+  h2 {
+      /*TO DO: font family + fallback, weight */
+      font-family: "Signika", sans-serif;
+      font-weight: 150;
+  }
+
+  h2 {
+      /*TO DO: transform to uppercase*/
+      text-transform: uppercase;
+  }
+
+  .lead {
+      /*TO DO: font size (em), font style and/or weight */
+      font-size: 1.50em;
+      font-weight: 200;
+  }
+
+  .register a {
+      /*TO DO: background color, text color, padding */
+      background-color: red;
+      color: white;
+      padding: 25px;
+  }
+
+  .schedule p {
+      /*TO DO: padding, reset margin to 0 */
+      padding: 25px;;
+      margin: 0;
+  }
+
+  .odd {
+      /*TO DO: background color */
+      background-color: aquamarine;
+  }
+
+  .even {
+      /*TO DO: background color */
+      background-color: aqua;
+  }
