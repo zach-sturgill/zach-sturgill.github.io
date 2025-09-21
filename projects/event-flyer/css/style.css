@@ -33,12 +33,12 @@
 
   section {
       /*TO DO: vertical spacing between sections */
-      word-spacing: 1.5px;
+      margin-top: 40px;
   }
 
   a {
       /*TO DO: link color, remove underline*/
-      color: red;
+      color: yellow;
       text-decoration: none;
   }
 
@@ -51,7 +51,7 @@
   h2 {
       /*TO DO: font family + fallback, weight */
       font-family: "Signika", sans-serif;
-      font-weight: 150;
+      font-weight: 700;
   }
 
   h2 {
@@ -62,14 +62,14 @@
   .lead {
       /*TO DO: font size (em), font style and/or weight */
       font-size: 1.50em;
-      font-weight: 200;
+      font-weight: 500;
   }
 
   .register a {
       /*TO DO: background color, text color, padding */
-      background-color: yellow;
+      background-color: red;
       color: white;
-      padding: 25px;
+      padding: 10px;
   }
 
   .schedule p {
