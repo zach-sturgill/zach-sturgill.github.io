@@ -67,7 +67,7 @@
 
   .register a {
       /*TO DO: background color, text color, padding */
-      background-color: red;
+      background-color: yellow;
       color: white;
       padding: 25px;
   }
@@ -80,7 +80,7 @@
 
   .odd {
       /*TO DO: background color */
-      background-color: aquamarine;
+      background-color: lightskyblue;
   }
 
   .even {
