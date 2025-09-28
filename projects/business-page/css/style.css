@@ -1,0 +1,35 @@
+header {
+    font-family: "Epunda Sans", sans-serif;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.first-container {
+    background-color: orange;
+    padding: 25px;
+}
+
+.first-image {
+    margin-top: 25px;
+    width: 1080px;
+    height: 475px;
+}
+
+.about {
+    margin-top: 15px;
+    padding: 25px;
+    background-color: burlywood;
+}
+
+.second-container {
+    margin-top: 15px;
+    background-color: bisque;
+    padding: 25px;
+}
+
+footer {
+    margin-top: 15px;
+    text-align: center;
+    background-color: rgb(200, 198, 130);
+}
