@@ -1,0 +1,107 @@
+body {
+    font-family: "Open Sans", "Roboto", sans-serif;
+    background-color: beige;
+}
+
+nav {
+    text-align: right;
+}
+
+.pages {
+    color: teal;
+}
+
+.home-header {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 35px;
+    font-weight: 700;
+    color: #2C5F6B;
+}
+
+.abt-header {
+    text-align: center;
+    margin-top: 23px;
+    font-size: 30px;
+    font-weight: 500;
+    color: #3A7D8C;
+}
+
+.home-container {
+    padding: 30px;
+}
+
+.abt-pgraph {
+    margin-top: 175px;
+    color: teal;
+    font-size: 18px;
+}
+
+.headshot-pic {
+    width: 200px;
+}
+
+
+footer {
+    margin-top: 42px;
+    color: cyan;
+    background-color: teal;
+}
+
+.email {
+    color: rgb(0, 215, 253);
+    margin-left: 2px;
+}
+
+.resume-header {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 35px;
+    font-weight: 700;
+    color: #2C5F6B;
+}
+
+.resume-sect {
+    margin-top: 20px;
+    margin-left: 2px;
+    font-size: 30px;
+    font-weight: 500;
+    color: #3A7D8C;
+}
+
+.resume-subsect {
+    color: #508993;
+    margin-left: 2px;
+}
+
+.bullet-points {
+    color: teal;
+    margin-left: 2px;
+}
+
+.clips-header {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 35px;
+    font-weight: 700;
+    color: #2C5F6B;
+}
+
+.clips-pgraph {
+    margin-top: 20px;
+    margin-left: 2px;
+    font-size: 20px;
+    color: #3A7D8C;
+}
+
+.clip-container {
+    margin-top: 10px;
+}
+
+.clip-link {
+    color: teal;
+}
+
+.usc-pic {
+    margin-top: 10px;
+}
