@@ -1,17 +1,20 @@
 body {
     font-family: "Open Sans", "Roboto", sans-serif;
     background-color: beige;
+    color: teal;
 }
 
 nav {
     text-align: right;
 }
 
-.pages {
+nav a,
+a {
     color: teal;
 }
 
-.home-header {
+
+h1 {
     text-align: center;
     margin-top: 10px;
     font-size: 35px;
@@ -19,21 +22,19 @@ nav {
     color: #2C5F6B;
 }
 
-.abt-header {
-    text-align: center;
+h2 {
     margin-top: 23px;
     font-size: 30px;
     font-weight: 500;
     color: #3A7D8C;
 }
 
-.home-container {
-    padding: 30px;
+main {
+    padding: 30px 0;
+    min-height: 77vh;
 }
 
 .abt-pgraph {
-    margin-top: 175px;
-    color: teal;
     font-size: 18px;
 }
 
@@ -44,64 +45,16 @@ nav {
 
 footer {
     margin-top: 42px;
+    padding: 20px 0;
     color: cyan;
     background-color: teal;
 }
 
-.email {
+footer a {
     color: rgb(0, 215, 253);
     margin-left: 2px;
 }
 
-.resume-header {
-    text-align: center;
-    margin-top: 10px;
-    font-size: 35px;
-    font-weight: 700;
-    color: #2C5F6B;
-}
-
-.resume-sect {
-    margin-top: 20px;
-    margin-left: 2px;
-    font-size: 30px;
-    font-weight: 500;
-    color: #3A7D8C;
-}
-
-.resume-subsect {
+.resume strong {
     color: #508993;
-    margin-left: 2px;
-}
-
-.bullet-points {
-    color: teal;
-    margin-left: 2px;
-}
-
-.clips-header {
-    text-align: center;
-    margin-top: 10px;
-    font-size: 35px;
-    font-weight: 700;
-    color: #2C5F6B;
-}
-
-.clips-pgraph {
-    margin-top: 20px;
-    margin-left: 2px;
-    font-size: 20px;
-    color: #3A7D8C;
-}
-
-.clip-container {
-    margin-top: 10px;
-}
-
-.clip-link {
-    color: teal;
-}
-
-.usc-pic {
-    margin-top: 10px;
 }
