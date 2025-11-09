@@ -1,0 +1,127 @@
+header,
+body,
+footer {
+    font-family: "Inter Tight", sans-serif;
+    background-color: #FDEFD7;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #030301;
+}
+
+header {
+    margin-bottom: 100px;
+}
+
+header h1 {
+    font-size: 4em;
+    font-weight: 800;
+}
+
+header h1,
+header p,
+header em {
+    text-align: center;
+}
+
+.lead {
+    margin: 30px 0px 10px 0px;
+}
+
+.subhead {
+    font-weight: 300;
+}
+
+.byline {
+    font-size: .85em;
+    font-weight: 300;
+}
+
+.img-fluid {
+    margin-bottom: 40px;
+}
+
+.container {
+    width: 45%;
+}
+
+.container-fluid {
+    width: 85%;
+}
+
+.chart.container-fluid img {
+  width: 100%;
+}
+
+.margin-container {
+    margin-top: 30px;
+}
+
+.second-row {
+    margin-top: 20px;
+    margin-left: 150px; 
+}
+
+.blue {
+    color: #116AB3;
+}
+
+.pink {
+    color: #AD1A64;
+}
+
+.teal {
+    color: #08706F;
+}
+
+.orange {
+    color: #E94613;
+}
+
+.chart-hed {
+    margin: 50px 0px 50px 0px;
+    font-size: 2em;
+    font-weight: 500;
+}
+
+.chart-subhed {
+    color: #AD1A64;
+    font-weight: 500;
+}
+
+@media (max-width: 950px) {
+  .container,
+  .container-fluid {
+    width: 75%;
+  }
+
+  .chart p {
+    padding-top: 1em;
+    font-size: 1.25em;
+    text-align: center;
+  }
+}
+
+@media (max-width: 556px) {
+  .container,
+  .container-fluid {
+    width: 95%;
+  }
+
+  h1 {
+    font-size: 1.75em;
+  }
+
+  .chart-hed {
+    font-size: 1.75em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+
+  .chart img {
+    padding: 2em;
+  }
+}
+
+.footer-container {
+    margin-top: 80px;
+}
