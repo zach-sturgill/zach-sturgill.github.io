@@ -1,0 +1,35 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: aqua;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.curry-pic {
+    margin: auto;
+    max-width: 500px;
+}
+
+figcaption {
+    font-size: 0.90em;
+    color: blue;
+}
+
+.visual-head {
+    font-weight: 500;
+}
+
+.pic-head {
+    font-weight: 900;
+}
+
+.pmargin {
+    margin-top: 50px;
+}
+
+footer {
+    margin-top: 50px;
+    font-weight: 450;
+}
